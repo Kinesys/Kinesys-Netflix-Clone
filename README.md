@@ -1,2 +1,2 @@
-# Kinesys-Netflix clone
-Netflix clone
+# Kinesys-HTTP-Proxy
+Rust HTTP Proxy 
