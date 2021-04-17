@@ -8,4 +8,4 @@ edition = "2018"
 
 #settng(Commands)
 
-phantester = {version = "1", features = [] }
+phantester = {version = "1", features = ["macros", "rt-multi-thread"] } #manual에 있는 macros & rt-multi-thread 정보를 가지고 옴.
